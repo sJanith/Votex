@@ -32,6 +32,9 @@
           <li class="nav-item">
             <a class="nav-link" href="/reports">Reports</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/charts">Charts</a>
+          </li>
         </ul>
       </div>
     </div>
